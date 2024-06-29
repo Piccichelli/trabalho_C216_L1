@@ -1,0 +1,16 @@
+{
+    "name": "projeto_C216",
+    "version": "1.0.0",
+    "description": "Middleware com restify.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node src/index.js",
+      "test": "Não há testes configurados"
+    },
+    "dependencies": {
+      "restify": "^8.5.1",
+      "pg": "^8.11.5"
+    },
+    "author": "Pedro GEC1607",
+    "license": "ISC"
+  }
